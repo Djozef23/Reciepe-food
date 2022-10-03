@@ -12,6 +12,7 @@ p {
    text-align: center;
 font-family: 'Times New Roman', Times, serif;
 font-size: x-large;
+border-left: 6px solid green;
 }
 
 .prep{
